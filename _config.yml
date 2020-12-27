@@ -20,10 +20,10 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://sofiag1l.github.io/'
+url: 'https://pfafner.github.io/webpage'
 baseurl: ''
-title: 'Sofia Gil-Clavel'
-description: 'PhD Student at the Max Planck Institute for Demographic Research'
+title: 'Alan Reyes-Figueroa'
+description: 'PhD Student at the Max Planck Institute for Mathematics'
 permalink: pretty
 logo: "/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 
@@ -36,7 +36,7 @@ navigation_header:
 - title: Home
   url: /
 - title: CV
-  url: /Files/SofiaGil_EnglishCV.pdf
+  url: /Files/CV.pdf
 - title: Publications
   url: /about/
 - title: Events
@@ -44,7 +44,7 @@ navigation_header:
 - title: Contact
   url: /contact/
 - title: Github
-  url: https://github.com/SofiaG1l
+  url: https://pfafner.github.com/webpage
   
 
 # Footer nav
