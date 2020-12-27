@@ -34,15 +34,15 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
 - title: Home
-  url: /
+  url: https://pfafner.github.com/webpage
 - title: CV
-  url: /Files/CV.pdf
+  url: Files/CV.pdf
 - title: Publications
-  url: /about/
+  url: about/
 - title: Events
-  url: /blog/
+  url: blog/
 - title: Contact
-  url: /contact/
+  url: contact/
 - title: Github
   url: https://pfafner.github.com/webpage
   
