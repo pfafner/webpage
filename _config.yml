@@ -1,1 +1,61 @@
-theme: jekyll-theme-dinky
+# Set theme
+remote_theme: daviddarnes/alembic
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+url: 'https://sofiag1l.github.io/'
+baseurl: ''
+title: 'Sofia Gil-Clavel'
+description: 'PhD Student at the Max Planck Institute for Demographic Research'
+permalink: pretty
+logo: "/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
+
+# Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: CV
+  url: /Files/SofiaGil_EnglishCV.pdf
+- title: Publications
+  url: /about/
+- title: Events
+  url: /blog/
+- title: Contact
+  url: /contact/
+- title: Github
+  url: https://github.com/SofiaG1l
+  
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: "#top"
+
+# Collections
+collections:
+  posts:
+    title: Events
+    output: true
+    description: "Here you can find the descriptions and links to events that I have helped organize."
+    feature_image: "https://i.picsum.photos/id/7/4728/3168.jpg"
