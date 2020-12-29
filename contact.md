@@ -14,7 +14,7 @@ Phone: (+52) 473 732 7155
 
 Mailto:  <>
 
-Web page: <https://sofiag1l.github.io>
+Web page: <>
 
 {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/sof14g1l" color="#0d94e7" %}
 
