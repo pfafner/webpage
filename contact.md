@@ -6,7 +6,7 @@ feature_image: "https://picsum.photos/1300/400?image=1073"
 
 Centro de Investigación en Matemáticas, CIMAT
 
-Konrad-Zuse-Str. 1, 18057 Rostock, Germany
+Jalisco S/N, Col. Valenciana, Germany
 
 Phone: +49 381 2081-150
 
