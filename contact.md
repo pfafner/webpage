@@ -4,7 +4,7 @@ title: Contact
 feature_image: "https://picsum.photos/1300/400?image=1073"
 ---
 
-Max Planck Institute for Demographic Research
+Centro de Investigación en Matemáticas, CIMAT
 
 Konrad-Zuse-Str. 1, 18057 Rostock, Germany
 
