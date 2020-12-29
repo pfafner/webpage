@@ -6,7 +6,7 @@ feature_image: "https://picsum.photos/1300/400?image=1073"
 
 Centro de Investigación en Matemáticas, CIMAT
 
-Jalisco S/N, Col. Valenciana, Germany
+Jalisco S/N, Col. Valenciana, CP: 36023 Guanajuato, Gto, México
 
 Phone: +49 381 2081-150
 
