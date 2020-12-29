@@ -8,6 +8,8 @@ Centro de Investigación en Matemáticas, CIMAT
 
 Jalisco S/N, Col. Valenciana, CP: 36023 Guanajuato, Gto, México
 
+Apartado Postal 402, CP 36000
+
 Phone: +49 381 2081-150
 
 Mailto:  <gil@demogr.mpg.de>
